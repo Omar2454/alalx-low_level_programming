@@ -1,0 +1,19 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+e
+50x01-variables_if_else_while/0-positive_or_negative.c,d\9\d984fddd7e73aa044e4fa96e4bc5cf64c603f926
+^
+.0x01-variables_if_else_while/5-print_numbers.c,4\5\4561a46d1f5a4fdccbd76b0c84cc2e65ac3b12f9
+^
+.0x01-variables_if_else_while/6-print_numberz.c,4\e\4e70b19f735f29806259ef44fba3513414fcdbbd
+_
+/0x01-variables_if_else_while/7-print_tebahpla.c,e\6\e68a7c354146a783804e779ce993f6c4533e187b
+]
+-0x01-variables_if_else_while/8-print_base16.c,2\2\2227d460ede6890f652c41cc92330bc81310ea42
+O
+0x09-static_libraries/README.md,5\0\5076119c1e6df2839202ea6f0227c95919d4282b
+[
++0x01-variables_if_else_while/9-print_comb.c,3\0\30789725c612b7d60733569ad258ddb077e3a1ee
+H
+0x0A-argc_argv/README.md,7\f\7f894090013e1e59acd9fce93b156b51ab7f08cc
